@@ -117,3 +117,25 @@ main {
 .nav__bottom .nav-links {
   gap: 0.5rem;
 }
+
+.icon {
+  display: flex;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.icon img {
+  margin-left: 100px;
+}
+
+.box {
+  height: 100px;
+  display: flex;
+  background-color: #fdf6b2;
+  border-radius: 7px; 
+  padding: 5px;
+}
+
+.box a {
+  color: dodgerblue;
+}
